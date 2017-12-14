@@ -2,7 +2,5 @@
 Language:        Cpp
 BasedOnStyle:  LLVM
 AlwaysBreakTemplateDeclarations: true
-BraceWrapping:
-IncludeCategories:
 IndentWidth:     4
 PointerAlignment: Left
