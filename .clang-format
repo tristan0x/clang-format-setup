@@ -1,0 +1,9 @@
+---
+Language:        Cpp
+BasedOnStyle:  LLVM
+AlwaysBreakTemplateDeclarations: true
+BraceWrapping:
+FixNamespaceComments: true
+IncludeCategories:
+IndentWidth:     4
+PointerAlignment: Left
